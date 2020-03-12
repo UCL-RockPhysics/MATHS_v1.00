@@ -26,4 +26,4 @@ To run MATHSproc:
     
 I need to update some timebase issues with these scripts (issue only affects Continuous mode acquisition). These scripts will eventually be converted to python.
 
-CH 23/11/19
+CH 12/03/20
